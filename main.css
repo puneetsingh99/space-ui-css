@@ -15,18 +15,6 @@
 /* Card */
 @import url("./css/card-styles.css");
 
-/* Footer-Navigation */
-@import url("./css/footer-styles.css");
-
-/* Footer-social */
-@import url("./css/footer-social-styles.css");
-
-/* Header */
-@import url("./css/header-styles.css");
-
-/* Home */
-@import url("./css/home-styles.css");
-
 /* Image */
 @import url("./css/img-styles.css");
 
@@ -47,9 +35,6 @@
 
 /* Rating */
 @import url("./css/rating-styles.css");
-
-/* Sidebar */
-@import url("./css/sidebar-styles.css");
 
 /* Slider */
 @import url("./css/slider-styles.css");
